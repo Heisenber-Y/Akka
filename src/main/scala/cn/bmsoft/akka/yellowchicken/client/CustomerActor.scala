@@ -34,7 +34,7 @@ class CustomerActor(serverHost:String,serverPort:Int) extends Actor {
     }
   }
 
-  //入口
+  //入口阿斯顿
 
 }
 object CustomerActor extends App{
